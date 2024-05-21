@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning React<br>🎯 Goals: ...<br>🎲 Fun fact: I'm Asian</p>
 
 ###
 
