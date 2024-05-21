@@ -64,6 +64,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Thienthienko/Thienthienko/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Thienthienko/output/snake.svg" alt="Snake animation" />
 
 ###
