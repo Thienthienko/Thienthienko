@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since february 2024<br>📚 I'm currently learning React<br>🎯 Goals: Get a job<br>🎲 Fun fact: I'm asian</p>
+<p align="left">✨ Creating bugs since february 2024<br>📚 I'm currently learning React<br>🎯 Goals : Get a job<br>🎲 Fun fact : I'm asian</p>
 
 ###
 
