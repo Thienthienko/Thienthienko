@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since february 2024<br>📚 I'm currently learning React<br>🎯 Goals : Get a job<br>🎲 Fun fact : I'm asian</p>
+<p align="left">✨ Creating bugs since February 2024<br>📚 I'm currently learning React<br>🎯 Goals : Get a job<br>🎲 Fun fact: I'm asian</p>
 
 ###
 
@@ -40,6 +40,8 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
@@ -58,6 +60,8 @@
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
 ###
